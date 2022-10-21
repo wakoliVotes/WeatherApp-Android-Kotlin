@@ -1,8 +1,12 @@
 ## WeatherApp-Android-Kotlin
-Weather app for a city using AndroidStudio, Kotlin and openweather API
+Weather app for a city using
+- AndroidStudio
+- Kotlin and
+- OppenWeatherMap API
 ### API SetUp
 - App uses API from openweather API
-- To get the API key: Login to [openweathermap](https://openweathermap.org/) 
+- To get the API key visit [OpenWeatherMap](https://openweathermap.org/)
+- Create account or login if already have one
 - Then goto "My API Keys" under profile name
 - Check the API key, copy and paste below in the API section.
 ### In Manifest
